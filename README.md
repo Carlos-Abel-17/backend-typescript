@@ -15,12 +15,12 @@
 ## This is a REST API with Typescript 
 
 ### technologies used
-→ multer: To be able to upload files from my computer 
-→ mongoose: use mongoose as Object-Document-Mapping to be able to work with my NoSQL database. 
-→ express : Use express to be able to do Http requests 
-→ JWT : Use json web token to be able to authenticate a user.  
-→ morgan : To be able to see in the terminal the Http requests and see if they are fulfilled or not. 
-→ cors : Use cors so that browsers give me permission to use my Http requests. 
+→ multer: To be able to upload files from my computer </br>
+→ mongoose: use mongoose as Object-Document-Mapping to be able to work with my NoSQL database.</br> 
+→ express : Use express to be able to do Http requests </br>
+→ JWT : Use json web token to be able to authenticate a user.  </br>
+→ morgan : To be able to see in the terminal the Http requests and see if they are fulfilled or not. </br>
+→ cors : Use cors so that browsers give me permission to use my Http requests. </br>
 ###  language 
 →Typescript: I decided to do it with Typescript as it significantly reduces errors. 
 ###  Database
