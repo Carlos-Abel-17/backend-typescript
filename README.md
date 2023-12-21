@@ -7,6 +7,7 @@
 → JWT : Use json web token para poder hacer la autenticacion de un usuario  </br>
 → morgan :Para poder ver en la terminal las  solicitudes Http y ver si se cumplen o no  </br>
 → cors : Use cors para que los navegadores me den permiso para poder usar mis solicitudes Http </br>
+→ bcript: Para poder encriptar las contaseñas de mis ususarios 
 ### lenguaje 
 → Typescript: decidi hacerlo con Typescript ya que disminuye significativamente los errores 
 ### Base de datos
@@ -21,6 +22,7 @@
 → JWT : Use json web token to be able to authenticate a user.  </br>
 → morgan : To be able to see in the terminal the Http requests and see if they are fulfilled or not. </br>
 → cors : Use cors so that browsers give me permission to use my Http requests. </br>
+→bcript: In order to encrypt my users' passwords 
 ###  language 
 →Typescript: I decided to do it with Typescript as it significantly reduces errors. 
 ###  Database
